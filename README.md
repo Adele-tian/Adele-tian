@@ -1,16 +1,20 @@
-## Hi there 👋
+```markdown
+## Hi there, I am Adele 👋
 
-<!--
-**Adele-tian/Adele-tian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently interested in **AI Agents**, **AI Products**, and **Machine Learning**
 
-Here are some ideas to get you started:
+- 🤖 I enjoy building practical AI applications and automation tools, especially around **productivity**, **knowledge management**, and **workflow automation**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I work mainly with **Python**, **TypeScript**, **Next.js**, and modern LLM / Agent frameworks
+
+- 🛠️ Some things I’ve been building:
+  - [**MyMemex**](https://github.com/Adele-tian/MyMemex) — A personal knowledge & memory system
+  - [**LazyApply**](https://github.com/Adele-tian/LazyApply) — A Chrome extension for smarter form filling
+  - [**Customer Audit Multi-Agent**](https://github.com/Adele-tian/customer-audit-multi-agent) — A multi-agent workflow for customer-service quality auditing
+  - [**E-commerce Operation SOP**](https://github.com/Adele-tian/e-commerce-operation-SOP) — Structured workflows for e-commerce operations
+  - [**Interview Prep SOP**](https://github.com/Adele-tian/interview-prep-sop) — A structured system for interview preparation
+
+- 🚀 I’m especially interested in turning **LLMs from chatbots into useful products and workflows**
+
+- 📫 How to reach me: 1773217300@qq.com
+```
